@@ -1,0 +1,4381 @@
+0 1 -1 0 612 0 cm
+q
+BT
+20 592 Td
+0 -44 Td
+0 -523 Td
+ET
+Q
+q
+Q
+q
+2 J
+0 G
+0.5 w
+20 548 112.24 44 re
+S
+Q
+BT
+1 0 0 1 38.4 570 Tm
+/F1 7 Tf
+0 0 0 rg
+(REPÚBLICA DE CHILE) Tj
+0 g
+1 0 0 1 37.03 563 Tm
+0 0 0 rg
+(SERVICIO ELECTORAL) Tj
+0 g
+ET
+BT
+1 0 0 1 134.24 583 Tm
+/F1 7 Tf
+0 0 0 rg
+(  PADRÓN DEFINITIVO ELECCIONES DE CONVENCIONALES CONSTITUYENTES, GOBERNADORES REGIONALES, ALCALDES Y CONCEJALES 2021) Tj
+0 g
+ET
+BT
+1 0 0 1 134.24 572 Tm
+/F1 7 Tf
+0 0 0 rg
+(  REGIÓN) Tj
+0 g
+ET
+BT
+1 0 0 1 190.36 572 Tm
+/F1 7 Tf
+0 0 0 rg
+(: DE MAGALLANES Y DE LA ANTARTICA CHILENA) Tj
+0 g
+ET
+BT
+1 0 0 1 639.31 572 Tm
+/F1 7 Tf
+0 0 0 rg
+(Página) Tj
+0 g
+ET
+BT
+1 0 0 1 684.21 572 Tm
+/F1 7 Tf
+0 0 0 rg
+(: 1 de 3) Tj
+0 g
+ET
+BT
+1 0 0 1 134.24 561 Tm
+/F1 7 Tf
+0 0 0 rg
+(  PROVINCIA) Tj
+0 g
+ET
+BT
+1 0 0 1 190.36 561 Tm
+/F1 7 Tf
+0 0 0 rg
+(: ANTARTICA CHILENA) Tj
+0 g
+ET
+BT
+1 0 0 1 639.31 561 Tm
+/F1 7 Tf
+0 0 0 rg
+(Registros) Tj
+0 g
+ET
+BT
+1 0 0 1 684.21 561 Tm
+/F1 7 Tf
+0 0 0 rg
+(: 243) Tj
+0 g
+ET
+BT
+1 0 0 1 134.24 550 Tm
+/F1 7 Tf
+0 0 0 rg
+(  COMUNA) Tj
+0 g
+ET
+BT
+1 0 0 1 190.36 550 Tm
+/F1 7 Tf
+0 0 0 rg
+(: ANTARTICA) Tj
+0 g
+ET
+q
+Q
+q
+2 J
+0 G
+0.5 w
+20 535 m
+234.86 535 l
+S
+0.5 w
+234.86 535 m
+292.15 535 l
+S
+0.5 w
+292.15 535 m
+320.8 535 l
+S
+0.5 w
+320.8 535 m
+535.66 535 l
+S
+0.5 w
+535.66 535 m
+664.57 535 l
+S
+0.5 w
+664.57 535 m
+700.38 535 l
+S
+0.5 w
+700.38 535 m
+772 535 l
+S
+Q
+BT
+1 0 0 1 22 536 Tm
+/F1 7 Tf
+0 0 0 rg
+(NOMBRE) Tj
+0 g
+ET
+BT
+1 0 0 1 245.04 536 Tm
+/F1 7 Tf
+0 0 0 rg
+(C.IDENTIDAD) Tj
+0 g
+ET
+BT
+1 0 0 1 299.35 536 Tm
+/F1 7 Tf
+0 0 0 rg
+(SEXO) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 536 Tm
+/F1 7 Tf
+0 0 0 rg
+(DOMICILIO ELECTORAL) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 536 Tm
+/F1 7 Tf
+0 0 0 rg
+(CIRCUNSCRIPCIÓN) Tj
+0 g
+ET
+BT
+1 0 0 1 666.57 536 Tm
+/F1 7 Tf
+0 0 0 rg
+(MESA) Tj
+0 g
+ET
+BT
+1 0 0 1 702.38 536 Tm
+/F1 7 Tf
+0 0 0 rg
+(PUEBLO INDÍGENA) Tj
+0 g
+ET
+BT
+1 0 0 1 22 529 Tm
+/F2 6 Tf
+0 0 0 rg
+(ABURTO ARRIAGADA LUIS ALBERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 529 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.392.711-5) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 529 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 529 Tm
+/F2 6 Tf
+0 0 0 rg
+(ISLA REY JORGE SIN N) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 529 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 529 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 529 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 523 Tm
+/F2 6 Tf
+0 0 0 rg
+(ACUÑA FUENTES FRANCISCO JAVIER) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 523 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.793.488-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 523 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 523 Tm
+/F2 6 Tf
+0 0 0 rg
+(MODULO B/4) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 523 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 523 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 523 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 517 Tm
+/F2 6 Tf
+0 0 0 rg
+(ACUÑA GONZALEZ ALEXIS MARCELO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 517 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.614.898-9) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 517 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 517 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 517 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 517 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 517 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 511 Tm
+/F2 6 Tf
+0 0 0 rg
+(ACUÑA MOLINA BAUTISTA) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 511 Tm
+/F2 6 Tf
+0 0 0 rg
+(2.864.906-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 511 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 511 Tm
+/F2 6 Tf
+0 0 0 rg
+(LA ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 511 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 511 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 511 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 505 Tm
+/F2 6 Tf
+0 0 0 rg
+(ACUÑA RIVAS LUIS FELIPE) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 505 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.030.761-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 505 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 505 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE E FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 505 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 505 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 505 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 499 Tm
+/F2 6 Tf
+0 0 0 rg
+(AGUILA ARANCIBIA VANESA ANDREA) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 499 Tm
+/F2 6 Tf
+0 0 0 rg
+(20.341.442-0) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 499 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 499 Tm
+/F2 6 Tf
+0 0 0 rg
+(MAR JONICO 1231) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 499 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 499 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 499 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 493 Tm
+/F2 6 Tf
+0 0 0 rg
+(AGUILA CARDENAS TAMARA JEANNETTE) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 493 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.971.528-4) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 493 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 493 Tm
+/F2 6 Tf
+0 0 0 rg
+(CROACIA 1190) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 493 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 493 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 493 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 487 Tm
+/F2 6 Tf
+0 0 0 rg
+(AGUILA MANSILLA MANUEL ALEJANDRO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 487 Tm
+/F2 6 Tf
+0 0 0 rg
+(19.140.943-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 487 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 487 Tm
+/F2 6 Tf
+0 0 0 rg
+(EL TUCAPEL 0493 POBL. 18 DE SEPTBRE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 487 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 487 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 487 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 481 Tm
+/F2 6 Tf
+0 0 0 rg
+(AGUILAR AGUILAR MARIA MARGARITA) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 481 Tm
+/F2 6 Tf
+0 0 0 rg
+(8.848.517-3) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 481 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 481 Tm
+/F2 6 Tf
+0 0 0 rg
+(ALMAFUERTE 297 RIO GRANDE ARGENTINA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 481 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 481 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 481 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 475 Tm
+/F2 6 Tf
+0 0 0 rg
+(AGUILAR QUINTANILLA JUAN PABLO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 475 Tm
+/F2 6 Tf
+0 0 0 rg
+(12.125.708-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 475 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 475 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FRE MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 475 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 475 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 475 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 469 Tm
+/F2 6 Tf
+0 0 0 rg
+(ALARCON MONTECINO DANIEL ENRIQUE) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 469 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.330.684-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 469 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 469 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 469 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 469 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 469 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 463 Tm
+/F2 6 Tf
+0 0 0 rg
+(ALLENDES MUÑOZ DAVID ANDRES) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 463 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.527.642-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 463 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 463 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE AEREA ANTARTICA PDTE. EDUARDO FREI M. SIN N . ISLA REY) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 463 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 463 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 463 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 457 Tm
+/F2 6 Tf
+0 0 0 rg
+(ALMUNA VILLAGRA CRISTIAN PATRICIO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 457 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.697.178-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 457 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 457 Tm
+/F2 6 Tf
+0 0 0 rg
+(CAPITAN DE PUERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 457 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 457 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 457 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 451 Tm
+/F2 6 Tf
+0 0 0 rg
+(ALVAREZ SALAZAR MARCELO LEONARDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 451 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.073.511-3) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 451 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 451 Tm
+/F2 6 Tf
+0 0 0 rg
+(VILLA LAS ESTRELLAS) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 451 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 451 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 451 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 445 Tm
+/F2 6 Tf
+0 0 0 rg
+(ALVIAL GARRIDO VICTOR EDUARDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 445 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.197.729-6) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 445 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 445 Tm
+/F2 6 Tf
+0 0 0 rg
+(BAHIA FILDES BAHIA FILDES) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 445 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 445 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 445 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 439 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANDRADE VARGAS MANUEL JESUS) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 439 Tm
+/F2 6 Tf
+0 0 0 rg
+(4.531.837-0) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 439 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 439 Tm
+/F2 6 Tf
+0 0 0 rg
+(SCHWEITZER 635 RIO GRANDE ARGENTINA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 439 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 439 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 439 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 433 Tm
+/F2 6 Tf
+0 0 0 rg
+(APABLAZA SALAS PATRICIO SANDRO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 433 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.881.711-3) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 433 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 433 Tm
+/F2 6 Tf
+0 0 0 rg
+(CAPITANIA DE PUERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 433 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 433 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 433 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 427 Tm
+/F2 6 Tf
+0 0 0 rg
+(ARAVENA PARRAGUIRRE BERNARDITA ALEJANDRA) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 427 Tm
+/F2 6 Tf
+0 0 0 rg
+(12.497.463-1) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 427 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 427 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 427 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 427 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 427 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 421 Tm
+/F2 6 Tf
+0 0 0 rg
+(ARRIETA ARANCIBIA ISAIAS BENJAMIN) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 421 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.421.560-7) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 421 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 421 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 421 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 421 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 421 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 415 Tm
+/F2 6 Tf
+0 0 0 rg
+(BARNERT MUÑOZ ALEX ALFREDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 415 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.218.460-5) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 415 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 415 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 415 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 415 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 415 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(BARRA ALIANTE PABLO HERNAN) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.931.868-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 702.38 409 Tm
+/F2 6 Tf
+0 0 0 rg
+(MAPUCHE) Tj
+0 g
+ET
+BT
+1 0 0 1 22 403 Tm
+/F2 6 Tf
+0 0 0 rg
+(BARRIA MANSILLA CLAUDIA ALEJANDRA) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 403 Tm
+/F2 6 Tf
+0 0 0 rg
+(8.233.652-4) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 403 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 403 Tm
+/F2 6 Tf
+0 0 0 rg
+(COLO COLO 1598) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 403 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 403 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 403 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 397 Tm
+/F2 6 Tf
+0 0 0 rg
+(BARRIAS MARTINEZ CRISTIAN IGNACIO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 397 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.850.068-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 397 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 397 Tm
+/F2 6 Tf
+0 0 0 rg
+(SECTOR PUNAHUE S/N NELTUME) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 397 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 397 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 397 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(BARRIENTOS AGUILAR CECILIA VIVIANA) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(17.111.339-3) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(SARMIENTO 2097) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 702.38 391 Tm
+/F2 6 Tf
+0 0 0 rg
+(MAPUCHE) Tj
+0 g
+ET
+BT
+1 0 0 1 22 385 Tm
+/F2 6 Tf
+0 0 0 rg
+(BENAVIDES SANCHEZ MANUEL OSVALDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 385 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.008.496-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 385 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 385 Tm
+/F2 6 Tf
+0 0 0 rg
+(VILLA LAS ESTRELLAS S/N ISLA REY JORGE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 385 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 385 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 385 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 379 Tm
+/F2 6 Tf
+0 0 0 rg
+(BESTARD LOBOS CECILIA EDITH) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 379 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.280.715-4) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 379 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 379 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 379 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 379 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 379 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 373 Tm
+/F2 6 Tf
+0 0 0 rg
+(BRAVO BARRAZA ENRIQUE PATRICIO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 373 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.534.428-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 373 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 373 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 373 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 373 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 373 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 367 Tm
+/F2 6 Tf
+0 0 0 rg
+(BRUNA BUSTAMANTE GABRIEL LEOPOLDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 367 Tm
+/F2 6 Tf
+0 0 0 rg
+(16.534.047-7) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 367 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 367 Tm
+/F2 6 Tf
+0 0 0 rg
+(LAGO RIESCO 468 RIBERA SUR PUERTO AYSEN) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 367 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 367 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 367 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 361 Tm
+/F2 6 Tf
+0 0 0 rg
+(BUNSTER MATUS JORGE LUIS) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 361 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.772.567-5) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 361 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 361 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 361 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 361 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 361 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 355 Tm
+/F2 6 Tf
+0 0 0 rg
+(BURGOS VILLARROEL HAROLD GUSTAVO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 355 Tm
+/F2 6 Tf
+0 0 0 rg
+(12.776.421-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 355 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 355 Tm
+/F2 6 Tf
+0 0 0 rg
+(VILLA LAS ESTRELLAS CASA 15 ISLA REY JORGE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 355 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 355 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 355 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 349 Tm
+/F2 6 Tf
+0 0 0 rg
+(BUSTAMANTE CARDEÑA ARIEL AURELIO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 349 Tm
+/F2 6 Tf
+0 0 0 rg
+(18.534.719-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 349 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 349 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE ANTARTICA EDUARDO FREI MONTALVA ANTARTICA CHILENA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 349 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 349 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 349 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 343 Tm
+/F2 6 Tf
+0 0 0 rg
+(BUSTOS CARRILLO GERSOM MARCOS) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 343 Tm
+/F2 6 Tf
+0 0 0 rg
+(11.268.377-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 343 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 343 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE AEREA ANTARTICA PDTE. EDUARDO FREI M. SIN N ISLA REY) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 343 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 343 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 343 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 337 Tm
+/F2 6 Tf
+0 0 0 rg
+(CALDERON SOTO MIGUEL ANGEL) Tj
+0 g
+ET
+BT
+1 0 0 1 257.46 337 Tm
+/F2 6 Tf
+0 0 0 rg
+(7.570.352-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 337 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 337 Tm
+/F2 6 Tf
+0 0 0 rg
+(BA EDO FREI M ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 337 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 337 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 337 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 331 Tm
+/F2 6 Tf
+0 0 0 rg
+(CAMPOS GREZ JOSE EDUARDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 331 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.487.109-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 331 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 331 Tm
+/F2 6 Tf
+0 0 0 rg
+(BAHIA FILDES 1 CAPITANIA DE PUERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 331 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 331 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 331 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 325 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARCAMO CERDA CLAUDIO VICENTE) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 325 Tm
+/F2 6 Tf
+0 0 0 rg
+(8.875.152-3) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 325 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 325 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 325 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 325 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 325 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 319 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARCAMO PRIETO EDUARDO ANDRES) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 319 Tm
+/F2 6 Tf
+0 0 0 rg
+(16.284.868-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 319 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 319 Tm
+/F2 6 Tf
+0 0 0 rg
+(VILLA LAS ESTRELLAS 0000 CHILENA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 319 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 319 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 319 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 313 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARCAMO SOTO MARCELO RODOLFO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 313 Tm
+/F2 6 Tf
+0 0 0 rg
+(17.238.936-8) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 313 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 313 Tm
+/F2 6 Tf
+0 0 0 rg
+(PASAJE SANTA JUANA 0278) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 313 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 313 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 313 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 307 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARDENAS BARRIA MARIA LUZ) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 307 Tm
+/F2 6 Tf
+0 0 0 rg
+(6.646.764-3) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 307 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 307 Tm
+/F2 6 Tf
+0 0 0 rg
+(ESPORA 1343 RIO GRANDE ARGENTINA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 307 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 307 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 307 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 301 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARO GALVEZ JORGE MARCELO) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 301 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.896.478-9) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 301 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 301 Tm
+/F2 6 Tf
+0 0 0 rg
+(ISLA REY JORGE, VILLA LAS ESTRELLAS CASA 1 1 ISLA REY JORGE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 301 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 301 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 301 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 295 Tm
+/F2 6 Tf
+0 0 0 rg
+(CAROCA VERGARA MAURICIO ALEJANDRO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 295 Tm
+/F2 6 Tf
+0 0 0 rg
+(11.391.106-9) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 295 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 295 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 295 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 295 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 295 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 289 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARRASCO ROJO JOSE CRISTIAN) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 289 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.865.791-6) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 289 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 289 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 289 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 289 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 289 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 283 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARREÑO PARRA JAIME ANDRES) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 283 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.028.451-5) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 283 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 283 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 283 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 283 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 283 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 277 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARRILLO ALVAREZ JUAN JOSE) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 277 Tm
+/F2 6 Tf
+0 0 0 rg
+(16.112.740-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 277 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 277 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE AEREA EDUARDO FREI M S/N ISLA REY JORGE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 277 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 277 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 277 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 271 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARVAJAL MADRID WILLIAM ENRIQUE) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 271 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.412.687-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 271 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 271 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE AEREA ANTARTICA PRESIDENTE E. FREI M. S/N BASE AEREA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 271 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 271 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 271 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 265 Tm
+/F2 6 Tf
+0 0 0 rg
+(CARVAJAL MIRANDA FELIPE EZEQUIEL) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 265 Tm
+/F2 6 Tf
+0 0 0 rg
+(18.550.951-6) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 265 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 265 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANGAMOS 1450) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 265 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 265 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 265 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 259 Tm
+/F2 6 Tf
+0 0 0 rg
+(CASTILLO LEYTON MARCELA DEL CARMEN) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 259 Tm
+/F2 6 Tf
+0 0 0 rg
+(11.184.827-0) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 259 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 259 Tm
+/F2 6 Tf
+0 0 0 rg
+(LUMEN 3580 B/36 DPTO 42 VILLA DON ADOLFO) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 259 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 259 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 259 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 253 Tm
+/F2 6 Tf
+0 0 0 rg
+(CASTILLO ROMERO RODRIGO ORLANDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 253 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.815.784-5) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 253 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 253 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE ANTARTICA PDTE E FREI M ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 253 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 253 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 253 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 247 Tm
+/F2 6 Tf
+0 0 0 rg
+(CASTRO GUERRERO IVAN MARCELO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 247 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.168.603-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 247 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 247 Tm
+/F2 6 Tf
+0 0 0 rg
+(VILLA LAS ESTRELLAS MODULO B-17) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 247 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 247 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 247 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 241 Tm
+/F2 6 Tf
+0 0 0 rg
+(CATALAN ALTAMIRANO CRISTIAN MARCELO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 241 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.166.775-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 241 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 241 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE AEREA PDTE EDO FREI M ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 241 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 241 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 241 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 235 Tm
+/F2 6 Tf
+0 0 0 rg
+(CATALAN MORA RODRIGO IVAN) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 235 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.978.812-0) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 235 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 235 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A PDTE EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 235 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 235 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 235 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 229 Tm
+/F2 6 Tf
+0 0 0 rg
+(CIFUENTES FIGUEROA CARLOS EDUARDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 229 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.316.196-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 229 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 229 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE PDTE E FREI M ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 229 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 229 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 229 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(COMIGUAL MENDEZ ROSAMEL ARSENIO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.289.822-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(NICANOR HERNANDEZ 1942 PUERTO SAN JULIAN) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 702.38 223 Tm
+/F2 6 Tf
+0 0 0 rg
+(MAPUCHE) Tj
+0 g
+ET
+BT
+1 0 0 1 22 217 Tm
+/F2 6 Tf
+0 0 0 rg
+(CONCHA FLORES ROBERTO ARNALDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 217 Tm
+/F2 6 Tf
+0 0 0 rg
+(21.176.044-3) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 217 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 217 Tm
+/F2 6 Tf
+0 0 0 rg
+(RIO MAIPO 44) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 217 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 217 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 217 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 211 Tm
+/F2 6 Tf
+0 0 0 rg
+(CONTRERAS GACITUA FRANCISCO OSVALDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 211 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.856.362-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 211 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 211 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 211 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 211 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 211 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 205 Tm
+/F2 6 Tf
+0 0 0 rg
+(CONTRERAS OPAZO OSVALDO LUIS) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 205 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.482.865-5) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 205 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 205 Tm
+/F2 6 Tf
+0 0 0 rg
+(BA EDO FREI M ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 205 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 205 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 205 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 199 Tm
+/F2 6 Tf
+0 0 0 rg
+(CONTRERAS PAREDES LAWRENCE ARNOLDO) Tj
+0 g
+ET
+BT
+1 0 0 1 257.46 199 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.840.483-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 199 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 199 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 199 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 199 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 199 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 193 Tm
+/F2 6 Tf
+0 0 0 rg
+(CORDOVA FUENTES CLAUDIO ALBERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 193 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.076.776-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 193 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 193 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 193 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 193 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 193 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 187 Tm
+/F2 6 Tf
+0 0 0 rg
+(CORTES ARAYA ANTONIO ROBERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 187 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.370.824-9) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 187 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 187 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE E FREI) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 187 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 187 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 187 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 181 Tm
+/F2 6 Tf
+0 0 0 rg
+(CORTES JIMENEZ JOSE LUIS) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 181 Tm
+/F2 6 Tf
+0 0 0 rg
+(6.067.992-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 181 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 181 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A E FREI) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 181 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 181 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 181 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 175 Tm
+/F2 6 Tf
+0 0 0 rg
+(CRAWFORD SAEZ CARLOS GILBERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 175 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.272.495-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 175 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 175 Tm
+/F2 6 Tf
+0 0 0 rg
+(BA PDTE FREI) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 175 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 175 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 175 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 169 Tm
+/F2 6 Tf
+0 0 0 rg
+(CRUZ RIVERA CARLOS CELEDONIO) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 169 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.991.023-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 169 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 169 Tm
+/F2 6 Tf
+0 0 0 rg
+(MODULO A/7) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 169 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 169 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 169 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 163 Tm
+/F2 6 Tf
+0 0 0 rg
+(DIAZ MANSILLA PEDRO ALEJANDRO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 163 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.122.306-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 163 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 163 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE AEREA ANTARTICA PDTE. EDUARDO FREI M.) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 163 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 163 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 163 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 157 Tm
+/F2 6 Tf
+0 0 0 rg
+(DIAZ NAVEA PEDRO EMILIO) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 157 Tm
+/F2 6 Tf
+0 0 0 rg
+(7.655.670-9) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 157 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 157 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE PDTE FREI) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 157 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 157 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 157 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 151 Tm
+/F2 6 Tf
+0 0 0 rg
+(DONOSO RAMIREZ CARLOS RODRIGO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 151 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.108.971-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 151 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 151 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 151 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 151 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 151 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 145 Tm
+/F2 6 Tf
+0 0 0 rg
+(DUARTE FUENTEALBA DANIEL AARON) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 145 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.082.459-3) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 145 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 145 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 145 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 145 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 145 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 139 Tm
+/F2 6 Tf
+0 0 0 rg
+(DURAN BEIZA PRISCILLA DEL PILAR) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 139 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.524.813-2) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 139 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 139 Tm
+/F2 6 Tf
+0 0 0 rg
+(B AEREA PDTE EDUARDO FREI ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 139 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 139 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 139 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 133 Tm
+/F2 6 Tf
+0 0 0 rg
+(ESPINOSA NARVAEZ CHRISTIAN MARCELO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 133 Tm
+/F2 6 Tf
+0 0 0 rg
+(12.681.326-0) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 133 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 133 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 133 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 133 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 133 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 127 Tm
+/F2 6 Tf
+0 0 0 rg
+(ESTRADA ROMERO FABIAN EDUARDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.13 127 Tm
+/F2 6 Tf
+0 0 0 rg
+(16.261.133-K) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 127 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 127 Tm
+/F2 6 Tf
+0 0 0 rg
+(MODULO A/10) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 127 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 127 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 127 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 121 Tm
+/F2 6 Tf
+0 0 0 rg
+(FAUNDEZ MORAGA LUIS EDUARDO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 121 Tm
+/F2 6 Tf
+0 0 0 rg
+(14.284.025-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 121 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 121 Tm
+/F2 6 Tf
+0 0 0 rg
+(MODULO A PIEZA 5 BASE AEREA ANTARTICA PRESIDENTE EDUARDO) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 121 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 121 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 121 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 115 Tm
+/F2 6 Tf
+0 0 0 rg
+(FERNANDEZ PINEDA JOSE LUIS) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 115 Tm
+/F2 6 Tf
+0 0 0 rg
+(8.060.036-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 115 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 115 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 115 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 115 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 115 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 109 Tm
+/F2 6 Tf
+0 0 0 rg
+(FLOODY WERNER JOYCE MARIE) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 109 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.687.274-0) Tj
+0 g
+ET
+BT
+1 0 0 1 298.14 109 Tm
+/F2 6 Tf
+0 0 0 rg
+(MUJER) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 109 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A PDTE EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 109 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 109 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 109 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 103 Tm
+/F2 6 Tf
+0 0 0 rg
+(FLORES ABARCA ANDRES SEBASTIAN) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 103 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.468.754-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 103 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 103 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 103 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 103 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 103 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 97 Tm
+/F2 6 Tf
+0 0 0 rg
+(FUENTES FERNANDEZ CLAUDIO RODRIGO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 97 Tm
+/F2 6 Tf
+0 0 0 rg
+(11.827.451-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 97 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 97 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 97 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 97 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 97 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(FUENTES HUENCHUCONA ROBERTO ENRIQUE) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(8.869.040-0) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 702.38 91 Tm
+/F2 6 Tf
+0 0 0 rg
+(MAPUCHE) Tj
+0 g
+ET
+BT
+1 0 0 1 22 85 Tm
+/F2 6 Tf
+0 0 0 rg
+(FUENTES REBOLLEDO OLIVER ALEJANDRO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 85 Tm
+/F2 6 Tf
+0 0 0 rg
+(16.220.528-5) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 85 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 85 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE AEREA ANTARTICA PDTE. E. FREI M. SIN N ISLA REY JORGE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 85 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 85 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 85 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 79 Tm
+/F2 6 Tf
+0 0 0 rg
+(GAETE ACUÑA JORGE ANDRES) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 79 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.120.044-3) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 79 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 79 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 79 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 79 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 79 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 73 Tm
+/F2 6 Tf
+0 0 0 rg
+(GALLARDO CAMPOS RICARDO ARTURO) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 73 Tm
+/F2 6 Tf
+0 0 0 rg
+(8.071.229-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 73 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 73 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 73 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 73 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 73 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 67 Tm
+/F2 6 Tf
+0 0 0 rg
+(GALLARDO MEDINA FRANCISCO JAVIER) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 67 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.745.832-4) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 67 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 67 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI M) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 67 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 67 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 67 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 61 Tm
+/F2 6 Tf
+0 0 0 rg
+(GALLARDO MUÑOZ RENATO ARIEL) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 61 Tm
+/F2 6 Tf
+0 0 0 rg
+(15.548.057-2) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 61 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 61 Tm
+/F2 6 Tf
+0 0 0 rg
+(GASTON ADARME 470) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 61 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 61 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 61 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
+BT
+1 0 0 1 22 55 Tm
+/F2 6 Tf
+0 0 0 rg
+(GALLARDO MUÑOZ RODRIGO OCTAVIO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 55 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.451.200-8) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 55 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 55 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 55 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 55 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 55 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 49 Tm
+/F2 6 Tf
+0 0 0 rg
+(GARCIA HERNANDEZ JUAN ALBERTO) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 49 Tm
+/F2 6 Tf
+0 0 0 rg
+(7.699.016-6) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 49 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 49 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 49 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 49 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 49 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 43 Tm
+/F2 6 Tf
+0 0 0 rg
+(GARCIA NAVARRETE CRISTIAN ANDRES) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 43 Tm
+/F2 6 Tf
+0 0 0 rg
+(13.755.687-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 43 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 43 Tm
+/F2 6 Tf
+0 0 0 rg
+(B A EDO FREI MONTALVA) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 43 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 43 Tm
+/F2 6 Tf
+0 0 0 rg
+(3) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 43 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 37 Tm
+/F2 6 Tf
+0 0 0 rg
+(GARCIA NEIRA MARCO ANTONIO) Tj
+0 g
+ET
+BT
+1 0 0 1 258.13 37 Tm
+/F2 6 Tf
+0 0 0 rg
+(9.004.143-6) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 37 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 37 Tm
+/F2 6 Tf
+0 0 0 rg
+(BA PDTE FREI) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 37 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 37 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 37 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 31 Tm
+/F2 6 Tf
+0 0 0 rg
+(GARRIDO SANTIS ANDRES ANTONIO) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 31 Tm
+/F2 6 Tf
+0 0 0 rg
+(10.854.190-3) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 31 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 31 Tm
+/F2 6 Tf
+0 0 0 rg
+(BASE ANTARTICA PRESIDENTE FREI 00 BASE ANTARTICA PRESIDENTE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 31 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 31 Tm
+/F2 6 Tf
+0 0 0 rg
+(2) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 31 Tm
+/F2 6 Tf
+0 0 0 rg
+(V) Tj
+0 g
+ET
+BT
+1 0 0 1 22 25 Tm
+/F2 6 Tf
+0 0 0 rg
+(GARRIDO URQUEJO RODRIGO ANDRES) Tj
+0 g
+ET
+BT
+1 0 0 1 254.79 25 Tm
+/F2 6 Tf
+0 0 0 rg
+(17.609.638-1) Tj
+0 g
+ET
+BT
+1 0 0 1 297.46 25 Tm
+/F2 6 Tf
+0 0 0 rg
+(VARON) Tj
+0 g
+ET
+BT
+1 0 0 1 322.8 25 Tm
+/F2 6 Tf
+0 0 0 rg
+(VILLA LAS ESTRELLAS ISLA REY JORGE) Tj
+0 g
+ET
+BT
+1 0 0 1 537.66 25 Tm
+/F2 6 Tf
+0 0 0 rg
+(ANTARTICA) Tj
+0 g
+ET
+BT
+1 0 0 1 673.56 25 Tm
+/F2 6 Tf
+0 0 0 rg
+(1) Tj
+0 g
+ET
+BT
+1 0 0 1 680.9 25 Tm
+/F2 6 Tf
+0 0 0 rg
+(M) Tj
+0 g
+ET
