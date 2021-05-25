@@ -1,3 +1,4 @@
+import pathlib
 from dataclasses import dataclass
 from typing import List, Dict
 
@@ -15,7 +16,7 @@ _DEFAULT_CUT_COLUMNS_CSV: Dict[CUTField, str] = {
     CUTField.CODIGO_COMUNA: 'Código Comuna 2018',
 }
 
-DEFAULT_CUT_CSV_PATH = '../../data/codigos_de_comunas.csv'
+DEFAULT_CUT_CSV_PATH = str(pathlib.Path(__file__).parent.absolute())+'/../../data/codigos_de_comunas.csv'
 DEFAULT_DELIMITER = ','
 
 FailReason = str

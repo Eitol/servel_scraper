@@ -9,22 +9,42 @@ Se ha probado con la data de:
 
 Se requiere python 3.8 o superior
 
-Primero debes instalar las dependencias
+Primero debes clonar el repo y entrar en el
+
+```bash
+git clone https://github.com/Eitol/servel_scraper.git
+
+cd servel_scraper
+```
+
+Luego seteas las dependencias y el PYTHONPATH
 
 ```bash
 pip install -r ./requirements.txt
+
+export PYTHONPATH=$(pwd)
 ```
 
-Luego puedes crear tu script customizado
+Luego debes correr el pipeline de ejemplo que descargará los pdf's y generará los csv's
+
+```bash
+python3 servel_scraper/main.py
+```
+
+Los PDF y CSV por defecto se descargan en el directorio "out"
+
+##### Customizando el script
+
+Luego puedes crear tu script customizado basandote en el main.py
 
 ```python
 from servel_scraper.servel_pipeline.servel_pipeline import ServelPipeline, PipelineStage
 
 # Aqui se descargaran los pdfs
-DEFAULT_PDF_DOWNLOAD_PATH = "../out/raw"
+DEFAULT_PDF_DOWNLOAD_PATH = "../out/pdf"
 
 # Aquí se guardarán los csv generados
-DEFAULT_GENERATED_CSV_PATH = '../out/clean'
+DEFAULT_GENERATED_CSV_PATH = '../out/csv'
 
 p = ServelPipeline(DEFAULT_PDF_DOWNLOAD_PATH, DEFAULT_GENERATED_CSV_PATH)
 p.run_pipeline([
@@ -32,6 +52,8 @@ p.run_pipeline([
     PipelineStage.EXTRACT_CSV_FROM_PDF
 ])
 ```
+
+### FAQ:
 
 #### ¿De donde se obtiene esta data?:
 
@@ -49,7 +71,34 @@ http://cdn.servel.cl/padron/A01107.pdf
 
 1: Descarga cada uno de los pdfs
 
-2: Por cada pdf descargado genera un csv con la data
+2: Por cada pdf descargado genera un csv con la data como el siguiente:
+
+![Image](doc/csv.png)
+<br><br>
+
+#### Notas para la extracción de la info
+
+Los nuevos ficheros contienen un texto de fondo que dificulta la extracción del texto utilizando algun OCR o rasterizador pdf.
+
+Entonces se debe recorrer los nodos del documento PDF de la siguiente forma.
+
+Cada página contiene dos streams. 
+- El primero contiene el fondo molesto repetido muchas veces (Por ejemplo "Region metropolitana")
+- El segundo contiene la data de los votantes. (Este es el que se utiliza)
+
+La estructura se aprecia en la siguiente imagen:
+![Image](doc/pdf_structure.png)
+
+El siguiente paso es extraer la data del stream.
+
+Puedes ver un ejemplo del stream en el fichero doc/data_stream_example.txt
+
+
+
+Cada fila inicia con el string "1 0 0 22"
+
+La estructura se aprecia en la siguiente imagen:
+![Image](doc/stream_explanation.png)
 
 #### Notas:
 
