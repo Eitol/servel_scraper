@@ -2,6 +2,8 @@ import enum
 import os
 from typing import List
 
+from tqdm import tqdm
+
 from servel_scraper.data_extractor.extractor import Servel2021PDFDataExtractor
 from servel_scraper.data_extractor.csv_writer import CSVExporter
 from servel_scraper.downloader.servel_file_repo import ServelFileRepo, DownloadResult
@@ -45,10 +47,16 @@ class ServelPipeline(object):
         download_result = ServelFileRepo.download_servel_files(self.pdf_path)
         _PipelineLogger.log_download_result(download_result)
     
+    def __get_pdf_files(self) -> List[str]:
+        return [x for x in os.listdir(self.pdf_path) if x.endswith(".pdf")]
+    
     def _extract_csv_from_servel_pdfs(self):
         exporter = CSVExporter()
         extractor = Servel2021PDFDataExtractor()
-        for pdf_file_name in [x for x in os.listdir(self.pdf_path) if x.endswith(".pdf")]:
+        pdf_files = self.__get_pdf_files()
+        pbar = tqdm(pdf_files)
+        for pdf_file_name in pbar:
+            pbar.set_description(f"Processing: {pdf_file_name}")
             people = extractor.extract(file_path=os.path.join(self.pdf_path, pdf_file_name))
             out_file_name = os.path.join(self.out_csv_path, pdf_file_name) + '.csv'
             exporter.export(out_file_name, people)

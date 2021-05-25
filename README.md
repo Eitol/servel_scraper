@@ -36,6 +36,8 @@ Los PDF y CSV por defecto se descargan en el directorio "out"
 ##### Customizando el script
 
 Luego puedes crear tu script customizado basandote en el main.py
+Por ejemplo el siguiente asume que ya tienes los ficheros descargados en out/pdf,
+por lo que se comenta PipelineStage.DOWNLOAD_PDFS
 
 ```python
 from servel_scraper.servel_pipeline.servel_pipeline import ServelPipeline, PipelineStage
@@ -48,7 +50,7 @@ DEFAULT_GENERATED_CSV_PATH = '../out/csv'
 
 p = ServelPipeline(DEFAULT_PDF_DOWNLOAD_PATH, DEFAULT_GENERATED_CSV_PATH)
 p.run_pipeline([
-    PipelineStage.DOWNLOAD_PDFS,
+    # PipelineStage.DOWNLOAD_PDFS,
     PipelineStage.EXTRACT_CSV_FROM_PDF
 ])
 ```
