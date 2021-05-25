@@ -57,6 +57,12 @@ p.run_pipeline([
 
 ### FAQ:
 
+#### ¿Cuanto pesan todos los pdfs?
+Unos 7 gbs aprox
+
+#### ¿Cuantos pdfs son?
+Unos 346 (Uno por cada código único territorial)
+
 #### ¿De donde se obtiene esta data?:
 
 Los ficheros del padrón electoral son públicos y están almacenados en una url como la siguiente
