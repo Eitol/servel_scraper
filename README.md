@@ -20,7 +20,7 @@ cd servel_scraper
 Luego seteas las dependencias y el PYTHONPATH
 
 ```bash
-pip install -r ./requirements.txt
+pip3 install -r ./requirements.txt
 
 export PYTHONPATH=$(pwd)
 ```
@@ -97,7 +97,7 @@ Puedes ver un ejemplo del stream en el fichero doc/data_stream_example.txt
 
 
 
-Cada fila inicia con el string "1 0 0 22"
+Cada fila inicia con el string "1 0 0 1 22"
 
 La estructura se aprecia en la siguiente imagen:
 ![Image](doc/stream_explanation.png)
