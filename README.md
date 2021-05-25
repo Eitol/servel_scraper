@@ -20,7 +20,7 @@ cd servel_scraper
 Luego seteas las dependencias y el PYTHONPATH
 
 ```bash
-pip install -r ./requirements.txt
+pip3 install -r ./requirements.txt
 
 export PYTHONPATH=$(pwd)
 ```
