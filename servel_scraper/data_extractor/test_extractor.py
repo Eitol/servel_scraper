@@ -16,8 +16,10 @@ class TestServel2021PDFDataExtractor(TestCase):
         self.assertEqual(persons[0].gender, Gender.MALE)
         self.assertEqual(persons[0].rut, '13.392.711-5')
         self.assertEqual(persons[0].address, 'ISLA REY JORGE SIN N')
+        self.assertEqual(persons[0].comuna, 'ANTARTICA')
         # Ultima persona
         self.assertEqual(persons[EXPECTED_SIZE - 1].name, 'ZUÑIGA MIRANDA MARIA ELENA')
         self.assertEqual(persons[EXPECTED_SIZE - 1].gender, Gender.FEMALE)
         self.assertEqual(persons[EXPECTED_SIZE - 1].rut, '11.660.676-3')
         self.assertEqual(persons[EXPECTED_SIZE - 1].address, 'BA E FREI')
+        self.assertEqual(persons[EXPECTED_SIZE - 1].comuna, 'ANTARTICA')
