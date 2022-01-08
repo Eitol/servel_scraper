@@ -3,7 +3,7 @@ from typing import List, TextIO
 
 from servel_scraper.data_extractor.person import Person
 
-OUT_CSV_DELIMITER = ','
+OUT_CSV_DELIMITER = ';'
 OUT_CSV_QUOTE_CHAR = '"'
 
 
@@ -16,7 +16,7 @@ class _CSVPersonWriter(object):
             self.write_row(p)
     
     def write_row(self, p: Person):
-        self._csv_writer.writerow([p.name, p.rut, str(p.gender), p.address])
+        self._csv_writer.writerow([p.name, p.rut, str(p.gender), p.address, p.comuna])
 
 
 class CSVExporter(object):
