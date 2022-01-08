@@ -25,3 +25,4 @@ class Person:
     rut: str
     address: str
     gender: Gender
+    comuna: str
