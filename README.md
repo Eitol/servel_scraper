@@ -5,6 +5,8 @@ Se ha probado con la data de:
 
 Última fecha de funcionamiento: 11 de Mayo 2021
 
+
+
 #### Corriendo el script
 
 Se requiere python 3.8 o superior
@@ -74,6 +76,13 @@ Donde CODIGO_UNICO_TERRITORIAL se puede obtener del fichero "data/codigo_de_comu
 Ejemplo:
 
 http://cdn.servel.cl/padron/A01107.pdf
+
+## Actualización 2022:
+La URL cambió a https://cdn.servel.cl/padrondefinitivo:
+Ejemplo:
+https://cdn.servel.cl/padrondefinitivo/A01107.pdf
+
+Ya no se incluye el rut de la persona, ni tampoco su sexo.
 
 #### ¿Como funciona este script?
 
