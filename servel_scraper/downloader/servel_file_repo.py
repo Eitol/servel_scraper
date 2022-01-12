@@ -7,7 +7,7 @@ from servel_scraper.downloader.cut_csv_repo import CUTCSVRepository, CUTField, C
 from servel_scraper.downloader.file_downloader import FileDownloader
 from tqdm import tqdm
 
-CDN_BASE_URL = 'http://cdn.servel.cl/padron'
+CDN_BASE_URL = 'http://www.paltabi.cl/secure'
 
 _DEFAULT_CUT_COLUMNS_CSV: Dict[CUTField, str] = {
     CUTField.NOMBRE_REGION: 'Nombre Región',
@@ -28,8 +28,8 @@ class ServerFilesUrlRepo(object):
     def get_servel_files_urls(cls, csv_path: str) -> List[str]:
         """
         i.e: [
-                "http://cdn.servel.cl/padron/A01107.pdf",
-                "http://cdn.servel.cl/padron/01101.pdf",
+                "http://http://www.paltabi.cl/secure/A01107.pdf",
+                "http://http://www.paltabi.cl/secure/01101.pdf",
                 ...
             ]
         """
@@ -48,7 +48,7 @@ class ServerFilesUrlRepo(object):
     @staticmethod
     def _build_url_from_cut(cut: CUT) -> Url:
         """
-        i.e: "http://cdn.servel.cl/padron/A01107.pdf"
+        i.e: "http://www.paltabi.cl/secure/A01107.pdf"
         """
         return f"{CDN_BASE_URL}/A{cut.codigo_comuna}.pdf"
 
@@ -68,7 +68,7 @@ class ServelFileRepo(object):
         result = DownloadResult(failed={}, success=[])
         pbar = tqdm(urls)
         for url in pbar:
-            pbar.set_description(f"Downloading: {url}")
+            pbar.set_description(f"Descargando: {url}")
             try:
                 file_downloader.download_file(out_path, url)
             except (BaseException, Exception) as e:

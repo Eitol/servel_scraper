@@ -27,6 +27,7 @@ NAME_FIELD_INDEX = 0
 RUT_FIELD_INDEX = 1
 GENDER_FIELD_INDEX = 2
 ADDRESS_FIELD_INDEX = 3
+COMUNA_FIELD_INDEX = 4
 
 
 class ServelPDFStreamPage(object):
@@ -109,7 +110,8 @@ class Servel2021PDFStreamPage(ServelPDFStreamPage):
             name=row[NAME_FIELD_INDEX],
             rut=row[RUT_FIELD_INDEX],
             gender=cls._str_gender_to_gender(row[GENDER_FIELD_INDEX]),
-            address=row[ADDRESS_FIELD_INDEX]
+            address=row[ADDRESS_FIELD_INDEX],
+            comuna=row[COMUNA_FIELD_INDEX]
         )
     
     @staticmethod
