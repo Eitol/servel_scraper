@@ -10,6 +10,7 @@ class Gender(Enum):
     OTHER = 0
     MALE = 1
     FEMALE = 2
+    UNKNOWN = 3
     
     def __str__(self) -> str:
         if self == Gender.MALE:
@@ -25,3 +26,6 @@ class Person:
     rut: str
     address: str
     gender: Gender
+    district: str
+    table: str
+    

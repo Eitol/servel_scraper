@@ -16,7 +16,7 @@ class _CSVPersonWriter(object):
             self.write_row(p)
     
     def write_row(self, p: Person):
-        self._csv_writer.writerow([p.name, p.rut, str(p.gender), p.address])
+        self._csv_writer.writerow([p.name, p.district, p.table])
 
 
 class CSVExporter(object):

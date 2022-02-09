@@ -3,6 +3,7 @@ from io import BytesIO, StringIO
 from abc import abstractmethod
 from typing import List
 
+import pikepdf
 from pikepdf._qpdf import Object
 
 from servel_scraper.data_extractor.person import Person, Gender
@@ -14,7 +15,7 @@ FIELD_LINE_START = '('
 PDF_SOURCE_RAW_MALE_ID = 'VARON'
 PDF_SOURCE_RAW_FEMALE_ID = 'MUJER'
 
-FIELDS_TO_READ_PER_DOC_ROW = 7
+FIELDS_TO_READ_PER_DOC_ROW = 4
 FIELD_CONTENT_START_INDEX = 1
 FIELD_CONTENT_END_INDEX = -4
 
@@ -24,9 +25,9 @@ RELEVANT_STREAM_PAGE_INDEX = 1
 
 # Field indexes in row
 NAME_FIELD_INDEX = 0
-RUT_FIELD_INDEX = 1
-GENDER_FIELD_INDEX = 2
-ADDRESS_FIELD_INDEX = 3
+DISTRICT_INDEX = 1
+TABLE_START_INDEX = 2
+TABLE_END_INDEX = 3
 
 
 class ServelPDFStreamPage(object):
@@ -105,11 +106,14 @@ class Servel2021PDFStreamPage(ServelPDFStreamPage):
     
     @classmethod
     def _convert_row_of_strings_to_person(cls, row: List[str]) -> Person:
+        table = " ".join(row[TABLE_START_INDEX:TABLE_END_INDEX + 1])
         return Person(
             name=row[NAME_FIELD_INDEX],
-            rut=row[RUT_FIELD_INDEX],
-            gender=cls._str_gender_to_gender(row[GENDER_FIELD_INDEX]),
-            address=row[ADDRESS_FIELD_INDEX]
+            district=row[DISTRICT_INDEX],
+            table=table,
+            address="",
+            rut="",
+            gender=Gender.UNKNOWN
         )
     
     @staticmethod
@@ -121,7 +125,7 @@ class Servel2021PDFStreamPage(ServelPDFStreamPage):
         return Gender.OTHER
     
     @staticmethod
-    def _get_relevant_data_stream_of_page(page: Object) -> StringIO:
+    def _get_relevant_data_stream_of_page(page: pikepdf.Page) -> StringIO:
         """
         The servel pdf page (2021) contains two text streams:
         - The first (index 0) contains the background text
@@ -129,8 +133,15 @@ class Servel2021PDFStreamPage(ServelPDFStreamPage):
 
         For more context see image:  "doc/pdf_structure.png"
         """
-        bytes_io = BytesIO(page['/Contents'][RELEVANT_STREAM_PAGE_INDEX].get_stream_buffer())
+        relevant_page_content: Object = page['/Contents'][RELEVANT_STREAM_PAGE_INDEX]
+        buff = relevant_page_content.get_stream_buffer()
+        bytes_io = BytesIO(buff)
         byte_str = bytes_io.read()
         # Convert to a "unicode" object
         text_obj = byte_str.decode(PDF_STREAM_ENCODING)
         return StringIO(text_obj)
+
+
+class Servel2021PresidentialElectionPDFStreamPage(Servel2021PDFStreamPage):
+    def extract(self) -> List[Person]:
+        pass

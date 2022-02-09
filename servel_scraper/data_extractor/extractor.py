@@ -1,9 +1,11 @@
 from abc import abstractmethod
 from typing import List
+
 import pikepdf
-from pikepdf._qpdf import Pdf, Object
+from pikepdf._qpdf import Pdf
+
 from servel_scraper.data_extractor.person import Person
-from servel_scraper.data_extractor.servel_pdf_stream_page import Servel2021PDFStreamPage, ServelPDFStreamPage
+from servel_scraper.data_extractor.servel_pdf_stream_page import ServelPDFStreamPage, Servel2021PDFStreamPage
 
 
 class ServelPDFDataExtractor:
@@ -23,6 +25,6 @@ class Servel2021PDFDataExtractor(ServelPDFDataExtractor):
         return out_data
     
     @staticmethod
-    def _extract_people_data_from_page(page: Object) -> List[Person]:
+    def _extract_people_data_from_page(page: pikepdf.Page) -> List[Person]:
         page_data_stream: ServelPDFStreamPage = Servel2021PDFStreamPage(page)
         return page_data_stream.extract()

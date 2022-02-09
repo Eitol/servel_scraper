@@ -91,6 +91,11 @@ Ya no se incluye el rut de la persona, ni tampoco su sexo.
 2: Por cada pdf descargado genera un csv con la data como el siguiente:
 
 ![Image](doc/csv.png)
+
+Para la versión actual (elecciones presidenciales 2021) genera la siguiente
+
+![Image](doc/image2022.png)
+
 <br><br>
 
 #### Notas para la extracción de la info
