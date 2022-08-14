@@ -9,8 +9,8 @@ DEFAULT_PDF_DOWNLOAD_PATH = os.path.join(current_path, '..', 'out', 'pdf')
 DEFAULT_GENERATED_CSV_PATH = os.path.join(current_path, '..', 'out', 'csv')
 
 if __name__ == '__main__':
-    os.makedirs(DEFAULT_PDF_DOWNLOAD_PATH)
-    os.makedirs(DEFAULT_GENERATED_CSV_PATH)
+    os.makedirs(DEFAULT_PDF_DOWNLOAD_PATH, exist_ok=True)
+    os.makedirs(DEFAULT_GENERATED_CSV_PATH, exist_ok=True)
     p = ServelPipeline(DEFAULT_PDF_DOWNLOAD_PATH, DEFAULT_GENERATED_CSV_PATH)
     p.run_pipeline([
         PipelineStage.DOWNLOAD_PDFS,

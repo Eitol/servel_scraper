@@ -77,12 +77,18 @@ Ejemplo:
 
 http://cdn.servel.cl/padron/A01107.pdf
 
-## Actualización 2022:
-La URL cambió a https://cdn.servel.cl/padrondefinitivo:
+## Actualización Presidenciales 2021:
+- La URL cambió a https://cdn.servel.cl/padrondefinitivo:
 Ejemplo:
 https://cdn.servel.cl/padrondefinitivo/A01107.pdf
+- Ya no se incluye el rut de la persona, ni tampoco su sexo.
 
-Ya no se incluye el rut de la persona, ni tampoco su sexo.
+## Actualización Plebiscito constitucional 2022:
+- La URL cambió a https://cdn.servel.cl/padron:
+Ejemplo:
+https://cdn.servel.cl/padron/A01107.pdf
+- Por alguna razón python no valida el certificado ssl de cdn.servel.cl
+- Ahora solo está el nombre y la circunscripción
 
 #### ¿Como funciona este script?
 

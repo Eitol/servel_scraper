@@ -15,7 +15,7 @@ FIELD_LINE_START = '('
 PDF_SOURCE_RAW_MALE_ID = 'VARON'
 PDF_SOURCE_RAW_FEMALE_ID = 'MUJER'
 
-FIELDS_TO_READ_PER_DOC_ROW = 4
+FIELDS_TO_READ_PER_DOC_ROW = 2
 FIELD_CONTENT_START_INDEX = 1
 FIELD_CONTENT_END_INDEX = -4
 
@@ -142,6 +142,3 @@ class Servel2021PDFStreamPage(ServelPDFStreamPage):
         return StringIO(text_obj)
 
 
-class Servel2021PresidentialElectionPDFStreamPage(Servel2021PDFStreamPage):
-    def extract(self) -> List[Person]:
-        pass

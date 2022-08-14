@@ -7,7 +7,7 @@ from servel_scraper.downloader.cut_csv_repo import CUTCSVRepository, CUTField, C
 from servel_scraper.downloader.file_downloader import FileDownloader
 from tqdm import tqdm
 
-CDN_BASE_URL = 'http://cdn.servel.cl/padrondefinitivo'
+CDN_BASE_URL = 'http://cdn.servel.cl/padron'
 
 _DEFAULT_CUT_COLUMNS_CSV: Dict[CUTField, str] = {
     CUTField.NOMBRE_REGION: 'Nombre Región',
@@ -28,8 +28,8 @@ class ServelFilesUrlRepo(object):
     def get_servel_files_urls(cls, csv_path: str) -> List[str]:
         """
         i.e: [
-                "http://cdn.servel.cl/padrondefinitivo/A01107.pdf",
-                "http://cdn.servel.cl/padrondefinitivo/01101.pdf",
+                "http://cdn.servel.cl/padron/A01107.pdf",
+                "http://cdn.servel.cl/padron/A01101.pdf",
                 ...
             ]
         """
@@ -48,7 +48,7 @@ class ServelFilesUrlRepo(object):
     @staticmethod
     def _build_url_from_cut(cut: CUT) -> Url:
         """
-        i.e: "http://cdn.servel.cl/padrondefinitivo/A01107.pdf"
+        i.e: "http://cdn.servel.cl/padron/A01107.pdf"
         """
         return f"{CDN_BASE_URL}/A{cut.codigo_comuna}.pdf"
 
