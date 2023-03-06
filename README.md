@@ -1,9 +1,7 @@
 ### Permite obtener el padron electoral del Servel
 
-Se ha probado con la data de:
-"padron definitivo de elecciones de convencionales constituyentes, gobernadores regionales, alcaldes y concejales 2021"
 
-Última fecha de funcionamiento: 11 de Mayo 2021
+Última fecha de funcionamiento: 2022
 
 
 
